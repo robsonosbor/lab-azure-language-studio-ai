@@ -2,6 +2,8 @@
 
 Este repositório documenta minha prática e aprofundamento no uso das ferramentas **Azure Speech Studio** e **Language Studio**, como parte do desafio da DIO.
 
+[![Imagem de capa](https://www.aegissofttech.com/insights/wp-content/uploads/2025/01/welcome-to-language-studio-1024x615.jpg)](/)
+
 ## Objetivos de Aprendizagem
 - Aplicar conceitos de análise de fala e linguagem natural.
 - Documentar processos técnicos de forma clara e estruturada.
