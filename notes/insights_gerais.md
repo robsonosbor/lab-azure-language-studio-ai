@@ -1,4 +1,4 @@
-## 💡 Insights gerais
+## Insights gerais
 
 - As duas ferramentas se complementam: **Speech Studio** foca na voz e **Language Studio** no texto. Juntas, permitem criar soluções completas de interação humano-máquina.
 - A curva de aprendizado é tranquila se você começar com exemplos simples e depois avançar para cenários mais complexos.
