@@ -34,8 +34,8 @@ Mesmo sem acesso direto ao Azure, simulei os seguintes cenários:
 - `extras/` → materiais complementares.
 
 ## Recursos Úteis
-- [Explore Speech Studio - Microsoft Learning](https://learn.microsoft.com/training/modules/explore-speech-service/)
-- [Analyze text with Language Studio - Microsoft Learning](https://learn.microsoft.com/training/modules/analyze-text-language-service/)
+- [Explore Speech Studio - Microsoft Learning](https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/speech-studio-overview)
+- [Analyze text with Language Studio - Microsoft Learning](https://learn.microsoft.com/pt-br/training/modules/analyze-text-ai-language/)
 - [GitHub Quick Start](https://docs.github.com/en/get-started/quickstart)
 - [GitHub Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
