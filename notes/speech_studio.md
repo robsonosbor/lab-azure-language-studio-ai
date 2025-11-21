@@ -6,15 +6,18 @@
 
 ## Experimentos simulados
 
-- **Primeiro contato:** percebi que a ferramenta é voltada para transformar fala em texto e texto em fala. A interface é amigável, mas exige atenção para configurar corretamente os recursos.
+### **Primeiro contato:**
+Percebi que a ferramenta é voltada para transformar fala em texto e texto em fala. A interface é amigável, mas exige atenção para configurar corretamente os recursos.
 
 [![Primeiro contato](https://github.com/robsonosbor/lab-azure-language-studio-ai/blob/main/images/primeiro-contato.png)](/)
 
-- **Speech-to-Text:** achei interessante como é possível enviar um áudio e receber a transcrição. Como iniciante, fiquei impressionado com a precisão, mesmo em frases mais longas.
+### **Speech-to-Text:**
+Achei interessante como é possível enviar um áudio e receber a transcrição. Como iniciante, fiquei impressionado com a precisão, mesmo em frases mais longas.
 
 [![Speech-to-Text](https://github.com/robsonosbor/lab-azure-language-studio-ai/blob/main/images/speech-to-text.png)](/)
 
-- **Text-to-Speech:** gostei de poder escolher vozes diferentes e até ajustar entonação. Isso me fez pensar em aplicações como assistentes virtuais ou leitura automática de conteúdos.
+### **Text-to-Speech:**
+Gostei de poder escolher vozes diferentes e até ajustar entonação. Isso me fez pensar em aplicações como assistentes virtuais ou leitura automática de conteúdos.
 
 [![Text-to-Speech](https://github.com/robsonosbor/lab-azure-language-studio-ai/blob/main/images/text-to-speech.png)](/)
 
